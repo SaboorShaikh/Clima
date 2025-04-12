@@ -1,0 +1,2 @@
+C:/Users/as729/OneDrive/Apps/Desktop/Courses/Flutter/clima/android/app/.cxx/Debug/2n2r60oq/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/as729/OneDrive/Apps/Desktop/Courses/Flutter/clima/android/app/.cxx/Debug/2n2r60oq/armeabi-v7a/CMakeFiles/rebuild_cache.dir
